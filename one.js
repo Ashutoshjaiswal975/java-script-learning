@@ -9,6 +9,7 @@
 //javascript code[{ }] <- this will run in 2 phases 1). memory creation phase(creation phase):  only location locate or space, .... 2). execution phase: it ecute the code
 
 
+
 // if
 const isUserloggedIn = true
 const temperature = 41
