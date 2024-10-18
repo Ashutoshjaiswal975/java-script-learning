@@ -23,7 +23,7 @@ map.set('Fr', "France")
 map.set('IN', "India")
 
 
-// console.log(map);
+// console.l og(map);
 
 for (const [key, value] of map) {
     // console.log(key, ':-', value);
